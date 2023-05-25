@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/arouramarinedev/pontooncalcu.git/static/css/main.d7ddd5f2.css",
+    "main.js": "/arouramarinedev/pontooncalcu.git/static/js/main.537ded0a.js",
+    "static/js/787.b5e386bb.chunk.js": "/arouramarinedev/pontooncalcu.git/static/js/787.b5e386bb.chunk.js",
+    "static/media/bill1.jpg": "/arouramarinedev/pontooncalcu.git/static/media/bill1.819a1ec0b6e7f6e0cba1.jpg",
+    "static/media/bill2.jpg": "/arouramarinedev/pontooncalcu.git/static/media/bill2.d7f33c91224475fbe40d.jpg",
+    "static/media/logo.png": "/arouramarinedev/pontooncalcu.git/static/media/logo.6ba0e026e4e0617ff0e3.png",
+    "static/media/before-un-2.jpg": "/arouramarinedev/pontooncalcu.git/static/media/before-un-2.a654c1497d9e308778fd.jpg",
+    "static/media/before-un.jpg": "/arouramarinedev/pontooncalcu.git/static/media/before-un.9acdc3bfd97f0fb76704.jpg",
+    "static/media/trioon.png": "/arouramarinedev/pontooncalcu.git/static/media/trioon.56d06b3a68e576f06195.png",
+    "index.html": "/arouramarinedev/pontooncalcu.git/index.html",
+    "main.d7ddd5f2.css.map": "/arouramarinedev/pontooncalcu.git/static/css/main.d7ddd5f2.css.map",
+    "main.537ded0a.js.map": "/arouramarinedev/pontooncalcu.git/static/js/main.537ded0a.js.map",
+    "787.b5e386bb.chunk.js.map": "/arouramarinedev/pontooncalcu.git/static/js/787.b5e386bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7ddd5f2.css",
+    "static/js/main.537ded0a.js"
+  ]
+}
